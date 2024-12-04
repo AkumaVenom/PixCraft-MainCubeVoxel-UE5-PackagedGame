@@ -6,7 +6,7 @@ PixCraft is a UE5 cube voxel game prototype similar to minecraft with high quali
 
 It is currently a work in progress in alpha stage at the moment
 
-Many More features are yet to come.
+PreRelease Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-PackagedGame/releases
 
 ========================================================================
 
@@ -39,3 +39,5 @@ Random Dynamic Weather System - Rain, Fog, Lightning & Clear Weather
 Game Saves & Loads
 
 ========================================================================
+
+-Many More features are yet to come.
