@@ -6,7 +6,7 @@ PixCraft is a UE5 cube voxel game prototype similar to minecraft with high quali
 
 It is currently a work in progress in alpha stage at the moment
 
-PreRelease Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-PackagedGame/releases
+Pre-Release Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-PackagedGame/releases
 
 ========================================================================
 
