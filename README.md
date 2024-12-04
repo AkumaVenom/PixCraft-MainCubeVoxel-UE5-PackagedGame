@@ -2,7 +2,7 @@
 
 ========================================================================
 
-PixCraft is a UE5 cube voxel game prototype similar to minecraft but with high quality stylized graphics & textures.
+PixCraft is a UE5 cube voxel game prototype similar to minecraft with high quality stylized graphics & textures.
 
 It is currently a work in progress in alpha stage at the moment
 
