@@ -40,7 +40,7 @@ Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the 
 
 Random Dynamic Weather System - Rain, Fog, Lightning & Clear Weather
 
-Game Saves & Loads
+Game Saves & Loads + Autosave feature
 
 ========================================================================
 
