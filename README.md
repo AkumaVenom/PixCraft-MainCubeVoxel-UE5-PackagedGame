@@ -10,13 +10,13 @@ Pre-Release Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-P
 
 ========================================================================
 
-![HighresScreenshot00005](https://github.com/user-attachments/assets/b7a66482-2327-4c51-b50f-376cd1c894f9)
+![1](https://github.com/user-attachments/assets/4f47b159-8499-40fa-a82d-701ca66dbed3)
 
 ========================================================================
 
 Game Features : 
 
-Infinite procedural world generation - Underground: caves, ores, lava, water, light stones - C++ fast chunk generation
+Instant Schematic Building
 
 Block Destruction
 
@@ -26,13 +26,17 @@ Trees & Foilage
 
 Interactive objects
 
-Biomes: Grassland - Dersert - Snowland - Water
+Biomes: Grassland - Desert - Snow - Water - Mountains
 
 Pickups
 
-NPCs with dynamic NavMesh
+NPCs have their own specific biome they spawn in.
 
-Dynamic Day & Night Cycle - Date & Time 
+Lego Plastic Mod Pack
+
+Texture Packs
+
+Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the current time of day.
 
 Random Dynamic Weather System - Rain, Fog, Lightning & Clear Weather
 
