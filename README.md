@@ -16,6 +16,8 @@ Pre-Release Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-P
 
 Game Features : 
 
+Seed Based Infinite Procedural World Generation
+
 Instant Schematic Building
 
 Block Destruction
