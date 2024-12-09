@@ -36,7 +36,7 @@ NPCs have their own specific biome they spawn in.
 
 Plastic Mod Pack
 
-Texture Packs - Vanilla & Tessellax
+Texture Packs - Vanilla & Tessellax "Both texture packs are 512x512"
 
 Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the current time of day.
 
