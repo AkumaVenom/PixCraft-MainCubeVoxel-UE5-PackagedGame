@@ -34,9 +34,9 @@ Pickups
 
 NPCs have their own specific biome they spawn in.
 
-Lego Plastic Mod Pack
+Plastic Mod Pack
 
-Texture Packs
+Texture Packs - Vanilla & Tessellax
 
 Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the current time of day.
 
