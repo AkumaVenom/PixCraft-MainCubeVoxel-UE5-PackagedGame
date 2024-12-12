@@ -18,6 +18,8 @@ Game Features :
 
 Seed Based Infinite Procedural World Generation
 
+Buildings/Houses Generate in Biomes - (WIP)
+
 Instant Schematic Building
 
 Block Destruction
