@@ -2,7 +2,7 @@
 
 ========================================================================
 
-PixCraft is a UE5 cube voxel game prototype similar to minecraft with high quality stylized graphics & textures.
+PixCraft is built with the latest Unreal Engine 5.5.1 & is a cube voxel game prototype similar to minecraft with high quality stylized graphics & textures.
 
 It is currently a work in progress in alpha stage at the moment
 
