@@ -18,7 +18,7 @@ Game Features :
 
 Seed Based Infinite Procedural World Generation
 
-Buildings/Houses Generate in Biomes - (WIP)
+Buildings Generate in Biomes - Towns & Cobblestone Towers - (WIP testing)
 
 Instant Schematic Building
 
