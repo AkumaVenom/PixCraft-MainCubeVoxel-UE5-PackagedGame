@@ -44,7 +44,7 @@ Texture Packs - Vanilla & Tessellax "Both texture packs are 512x512"
 
 Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the current time of day.
 
-Random Dynamic Weather System - Rain, Fog, Lightning & Clear Weather
+Random Dynamic Weather System - Rain, Lightning & Clear Weather
 
 Game Saves & Loads + Autosave feature
 
