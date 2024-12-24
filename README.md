@@ -20,7 +20,7 @@ Game Features :
 
 Seed Based Infinite Procedural World Generation
 
-Structures Generate in Grassland Biomes - Small Towns - (Work In Progress)
+Structures Generate Biomes - Small Towns & Sandstone Pyramids - (Work In Progress)
 
 Instant Schematic Building
 
@@ -54,7 +54,7 @@ Game Saves & Loads + Autosave feature
 
 ========================================================================
 
-Pyramid Generation Update Sneak Peek
+Pyramid Generation Update v0.0.9.0a1
 
 ![HighresScreenshot00000](https://github.com/user-attachments/assets/8e675ff3-071d-49ca-a260-f6239b6d8baa)
 
