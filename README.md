@@ -20,7 +20,7 @@ Game Features :
 
 Seed Based Infinite Procedural World Generation
 
-Structures Generate Biomes - Small Towns & Sandstone Pyramids - (Work In Progress)
+Structures Generate In Biomes - Small Towns & Sandstone Pyramids - (Work In Progress)
 
 Instant Schematic Building
 
