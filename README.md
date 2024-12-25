@@ -60,7 +60,7 @@ Game Saves & Loads + Autosave feature
 
 ========================================================================
 
-Pyramid Generation Update v0.0.9.0a1
+Pyramid Generation Update
 
 ![HighresScreenshot00000](https://github.com/user-attachments/assets/8e675ff3-071d-49ca-a260-f6239b6d8baa)
 
