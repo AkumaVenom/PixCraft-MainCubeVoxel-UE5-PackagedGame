@@ -52,6 +52,8 @@ Dynamic Day & Night Cycle - Date & Time - Different NPCs spawn depending on the 
 
 Random Dynamic Weather System - Rain, Lightning & Clear Weather
 
+Skin Selector - Many skins will be added in updates
+
 Game Saves & Loads + Autosave feature
 
 ========================================================================
@@ -60,8 +62,8 @@ Game Saves & Loads + Autosave feature
 
 ========================================================================
 
-Pyramid Generation Update
+Skin Select Update
 
-![HighresScreenshot00000](https://github.com/user-attachments/assets/8e675ff3-071d-49ca-a260-f6239b6d8baa)
+![Sneek](https://github.com/user-attachments/assets/e0b3417c-794c-4cde-923b-e8188fbc857b)
 
 ========================================================================
