@@ -44,7 +44,7 @@ Pickups
 
 NPCs have their own specific biome they spawn in.
 
-Plastic Mod Pack
+Multiple Generation Styles - Main / Plastic / Realistic
 
 Texture Packs - Vanilla & Tessellax - "Vanilla texture pack is 512x512" - "Tessellax texture pack is 1024x1024"
 
@@ -59,6 +59,12 @@ Game Saves & Loads + Autosave feature
 ========================================================================
 
 -Many More features are yet to come.
+
+========================================================================
+
+Realistic Generation Style Update
+
+![Screenshot 2024-12-30 095750](https://github.com/user-attachments/assets/91ee9bda-3868-47e8-a17e-7f4f291bf4ec)
 
 ========================================================================
 
