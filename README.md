@@ -62,6 +62,13 @@ Game Saves & Loads + Autosave feature
 
 ========================================================================
 
+Survival Mode with survival inventory coming soon!
+
+![Screenshot 2025-01-10 044102](https://github.com/user-attachments/assets/62f85d83-21e1-4ace-acda-ccb7c67b9e3c)
+
+========================================================================
+
+
 Realistic Generation Style Update
 
 ![Screenshot 2024-12-30 095750](https://github.com/user-attachments/assets/91ee9bda-3868-47e8-a17e-7f4f291bf4ec)
