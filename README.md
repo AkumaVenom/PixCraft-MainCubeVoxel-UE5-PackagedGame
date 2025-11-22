@@ -16,6 +16,8 @@ Pre-Release Download: https://github.com/AkumaVenom/PixCraft-MainCubeVoxel-UE5-P
 
 [https://discord.gg/Uf8Q8usSmk](https://discord.gg/Uf8Q8usSmk)
 
+Donation/Tips https://www.paypal.me/akumacreative
+
 ========================================================================
 
 ![Main](https://github.com/user-attachments/assets/943cf320-bab7-4c76-9f66-94b1fd289db0)
